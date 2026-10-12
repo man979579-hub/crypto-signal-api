@@ -1,0 +1,14 @@
+
+{
+  "name": "crypto-signal-api",
+  "version": "1.0.0",
+  "description": "Personal Crypto Signal API",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
+
